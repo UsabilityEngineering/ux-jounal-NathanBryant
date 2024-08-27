@@ -1,10 +1,10 @@
-# UX Portfolio
+# Nathan's UX Portfolio
 
-About me...
+I am a cool dude who likes cool things like programming and UX, For starters I have been working alot with HTML, CSS, and JS more recently which has gotten me thinking about UX. 
 
 ## UX Team Project
 
-Coming soon.
+
 
 ## UX Journal
 

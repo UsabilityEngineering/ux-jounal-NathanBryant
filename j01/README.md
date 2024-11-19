@@ -4,4 +4,14 @@ I recently decided to switch from the macOS Terminal to **Iterm2** because I wan
 insert sheet of paper here --
 
 --------------------
+## Experience with split panes:
+My primary motivation for switching to iTerm2 from the default is to improve the multitasking effeciency, particularly for being able to run multiple commands and monitor those outputs and inputs in parallel. As well as being able to ssh in one and be in my home directory in the other one. 
+
+--- 
+## Initial Expectation:
+From other software I have used in the past I would expect it to be much like splitting your screen on windows or mac. And all the while being able to easily arrange them. I anticipated being able to run commands in one pane while keeping logs visible in another, akin to something like multiple browser tabs or document views.
+
+--- 
+## Interaction: 
+
 

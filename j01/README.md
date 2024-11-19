@@ -16,4 +16,4 @@ From other software I have used in the past I would expect it to be much like sp
 --- 
 ## Interaction: 
 
-![Picture of Iterm2](./images/screenshot.png)
+![Picture of Iterm2](./images/screenshot.jpg)

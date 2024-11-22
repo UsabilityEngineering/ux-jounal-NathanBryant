@@ -17,3 +17,28 @@ From other software I have used in the past I would expect it to be much like sp
 ## Interaction: 
 
 ![Picture of Iterm2](./images/screenshot.jpg)
+
+
+- I activated the Split-pane functionality using the shortcut command COMMAND+SHIFT+D to split vertically
+- the layour was intuitive, and the new pane shared the same working directory which is a very nice touch that my old terminal did not do.
+- Resizing the panes with the mouse felt natural and closley mimmicked resizing windows in something like a browser or web app
+
+## Challenges Encountered:
+
+- My initial confusion arose when I was trying to navigate between the two panes using keyboard shortcuts. I really was expecting Command + Tab or like Command + 1,2,3,4 kinda like chrome or safari. However, iTerm2 uses a different shortcut they use Command+Option+Arrow, which is gonna take some learning and adjusting too. (Picture Down Below)
+
+![Picture of Iterm2, with split panes](./images/screenshot2.jpg)
+
+## Solutions: 
+- What is extremely nice, is that iTerm2 comes with a built- keybind changer, which allowed me to reconfigure shortcuts to better suit my preferences.
+- I quickly created custom shortcuts that aligned with my mental model and muscle memory, dramatically improving the experience.
+- using the Preferences > Keys menu, I customized my shortcuts ofr pane navigation, making it possible to use ctrl + arrow instead.
+- Iterm2 also supports creating custom shortcuts for complex actions, which is nice because this allows for a more modular approach, this is nice because I can mimick real world actions, 
+
+## Strengths of the Design: 
+- Real world analogies: The panes feel like a real world desk organization, allowing you to group and view tasks, simulataneousl, which is natural and intuitive. It also emulates alot of different programs and is kind of a staple.
+- Visual Cues: clear separators between panes and a subtle highlight make it clear which pane I am actively viewing, although this can be changed in settings if you want ;).
+
+
+
+  

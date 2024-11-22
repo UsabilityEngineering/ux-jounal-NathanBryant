@@ -13,15 +13,18 @@ My primary motivation for switching to iTerm2 from the default is to improve the
 
 From other software I have used in the past I would expect it to be much like splitting your screen on windows or mac. And all the while being able to easily arrange them. I anticipated being able to run commands in one pane while keeping logs visible in another, akin to something like multiple browser tabs or document views.
 
+![Picture of Iterm2](./images/screenshot.jpg)
+
 --- 
 ## Interaction: 
 
-![Picture of Iterm2](./images/screenshot.jpg)
 
 
 - I activated the Split-pane functionality using the shortcut command COMMAND+SHIFT+D to split vertically
 - the layour was intuitive, and the new pane shared the same working directory which is a very nice touch that my old terminal did not do.
 - Resizing the panes with the mouse felt natural and closley mimmicked resizing windows in something like a browser or web app
+
+![picturee of Splitpane](./images/screenshot3.jpg)
 
 ## Challenges Encountered:
 

@@ -19,7 +19,12 @@ From my experience with other software, I expected split panes to work similarly
 ---
 
 ## Interaction
-- After opening up Iterm2, I was greeted with a blank canvas
+- After opening up Iterm2, I was greeted with a blank canvas and a working terminal in my home/root directory
+- I first believed that it would be CMD + D, which is similar to google chrome or safari, to my avail this was not it.
+- I continued trying different keybinds until I gave up and looked in the Shortcuts/accessibility tab.
+![picture of accessibility](./images/shortcuts.png)
+
+- 
 - I activated the **Split Pane** functionality using the shortcut **COMMAND + SHIFT + D** to split vertically.
 - The layout was nice, and the new pane automatically shared the same working directory, which was a very nice touch that my old terminal did not offer.
 - Resizing the panes with the mouse felt natural and closely mimicked resizing windows in a browser or web application.

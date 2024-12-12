@@ -37,7 +37,7 @@ From my experience with other software, I expected split panes to work similarly
 
 My initial confusion arose when I tried to **navigate between the two panes using keyboard shortcuts**. I was expecting shortcuts like **COMMAND + TAB** or **COMMAND + 1, 2, 3, 4**, similar to browser behavior in Chrome or Safari. However, iTerm2 uses a different shortcut: **COMMAND + OPTION + Arrow Keys**. This will take some learning and adjusting.
 
-![Picture of iTerm2 with Split Panes](./images/electric)
+![Picture of iTerm2 with Split Panes](./images/electric.png)
 
 ---
 

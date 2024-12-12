@@ -1,47 +1,61 @@
-# Working with a new terminal
+# Working with a New Terminal
 
-I recently decided to switch from the macOS Terminal to **Iterm2** because I wanted a terminal emulator that offered more customization and better usability. As someone who spends alot of time in the terminal this is something I find very important. It leverages the principle of matching between system and the real world. It's Split Panes feature mimics this ability to lay out multiple sheets of paper on a desk or tabs in a notebook for concurrent work, something my old terminal did not do. 
-insert sheet of paper here --
+I recently decided to switch from the macOS Terminal to **iTerm2** because I wanted a terminal emulator that offered more customization and better usability. As someone who spends a lot of time in the terminal, this is something I find very important. iTerm2 leverages the principle of **matching between the system and the real world**. Its **Split Panes** feature mimics the ability to lay out multiple sheets of paper on a desk or tabs in a notebook for concurrent work—something my old terminal did not support.
 
---------------------
-## Experience with split panes:
+---
 
-My primary motivation for switching to iTerm2 from the default is to improve the multitasking effeciency, particularly for being able to run multiple commands and monitor those outputs and inputs in parallel. As well as being able to ssh in one and be in my home directory in the other one. 
+## Experience with Split Panes
 
---- 
-## Initial Expectation:
+My primary motivation for switching to iTerm2 from the default terminal was to improve **multitasking efficiency**. I wanted to be able to run multiple commands and monitor their outputs and inputs in parallel. For example, I often need to **SSH** into a server in one pane while keeping my **home directory** open in another pane.
 
-From other software I have used in the past I would expect it to be much like splitting your screen on windows or mac. And all the while being able to easily arrange them. I anticipated being able to run commands in one pane while keeping logs visible in another, akin to something like multiple browser tabs or document views.
+---
 
-![Picture of Iterm2](./images/screenshot.jpg)
+## Initial Expectation
 
---- 
-## Interaction: 
+From my experience with other software, I expected split panes to work similarly to **screen splitting** on Windows or macOS, where it’s easy to arrange and manage windows. I anticipated being able to run commands in one pane while keeping logs visible in another, much like working with multiple browser tabs or document views.
 
+![Picture of iTerm2](./images/screenshot.jpg)
 
+---
 
-- I activated the Split-pane functionality using the shortcut command COMMAND+SHIFT+D to split vertically
-- the layour was intuitive, and the new pane shared the same working directory which is a very nice touch that my old terminal did not do.
-- Resizing the panes with the mouse felt natural and closley mimmicked resizing windows in something like a browser or web app
+## Interaction
 
-![picturee of Splitpane](./images/screenshot3.jpg)
+- I activated the **Split Pane** functionality using the shortcut **COMMAND + SHIFT + D** to split vertically.
+- The layout was intuitive, and the new pane automatically shared the same working directory, which was a very nice touch that my old terminal did not offer.
+- Resizing the panes with the mouse felt natural and closely mimicked resizing windows in a browser or web application.
 
-## Challenges Encountered:
+![Picture of Split Pane](./images/screenshot3.jpg)
 
-- My initial confusion arose when I was trying to navigate between the two panes using keyboard shortcuts. I really was expecting Command + Tab or like Command + 1,2,3,4 kinda like chrome or safari. However, iTerm2 uses a different shortcut they use Command+Option+Arrow, which is gonna take some learning and adjusting too. (Picture Down Below)
+---
 
-![Picture of Iterm2, with split panes](./images/screenshot2.jpg)
+## Challenges Encountered
 
-## Solutions: 
-- What is extremely nice, is that iTerm2 comes with a built- keybind changer, which allowed me to reconfigure shortcuts to better suit my preferences.
-- I quickly created custom shortcuts that aligned with my mental model and muscle memory, dramatically improving the experience.
-- using the Preferences > Keys menu, I customized my shortcuts ofr pane navigation, making it possible to use ctrl + arrow instead.
-- Iterm2 also supports creating custom shortcuts for complex actions, which is nice because this allows for a more modular approach, this is nice because I can mimick real world actions, 
+My initial confusion arose when I tried to **navigate between the two panes using keyboard shortcuts**. I was expecting shortcuts like **COMMAND + TAB** or **COMMAND + 1, 2, 3, 4**, similar to browser behavior in Chrome or Safari. However, iTerm2 uses a different shortcut: **COMMAND + OPTION + Arrow Keys**. This will take some learning and adjusting.
 
-## Strengths of the Design: 
-- Real world analogies: The panes feel like a real world desk organization, allowing you to group and view tasks, simulataneousl, which is natural and intuitive. It also emulates alot of different programs and is kind of a staple.
-- Visual Cues: clear separators between panes and a subtle highlight make it clear which pane I am actively viewing, although this can be changed in settings if you want ;).
+![Picture of iTerm2 with Split Panes](./images/screenshot2.jpg)
 
+---
 
+## Solutions
 
-  
+One of the best features of iTerm2 is its **built-in keybind editor**, which allowed me to reconfigure shortcuts to better suit my preferences.
+
+- I quickly created custom shortcuts that aligned with my mental model and muscle memory, dramatically improving my experience.
+- Using **Preferences > Keys**, I customized the pane navigation shortcuts to use **CTRL + Arrow Keys** instead.
+- iTerm2 also supports creating custom shortcuts for complex actions, which allows for a **modular approach** to productivity. This flexibility lets me mimic real-world actions, enhancing my workflow further.
+
+---
+
+## Strengths of the Design
+
+### 1. Real-World Analogies
+
+The split panes in iTerm2 feel like **real-world desk organization**, allowing you to group and view tasks simultaneously. This design is natural and intuitive. It also emulates the functionality of many other popular programs, making it a staple for power users.
+
+### 2. Visual Cues
+
+iTerm2 provides clear **visual separators** between panes and a subtle highlight to indicate the active pane. This makes it easy to see where you are working. If preferred, these visual cues can be adjusted in the settings.
+
+---
+
+Switching to iTerm2 has significantly improved my productivity and multitasking capabilities. The ability to split panes, customize shortcuts, and mimic real-world workflows makes it an excellent choice for anyone who spends a lot of time in the terminal.

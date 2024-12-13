@@ -24,7 +24,6 @@ From my experience with other software, I expected split panes to work similarly
 - I continued trying different keybinds until I gave up and looked in the Shortcuts/accessibility tab.
 ![picture of accessibility](./images/shortcuts.png)
 
-- 
 - I activated the **Split Pane** functionality using the shortcut **COMMAND + SHIFT + D** to split vertically.
 - The layout was nice, and the new pane automatically shared the same working directory, which was a very nice touch that my old terminal did not offer.
 - Resizing the panes with the mouse felt natural and closely mimicked resizing windows in a browser or web application.
@@ -55,7 +54,7 @@ One of the best features of iTerm2 is its **built-in keybind editor**, which all
 
 ### 1. Real-World Analogies
 
-The split panes in iTerm2 feel like **real-world desk organization**, allowing you to group and view tasks simultaneously. This design is natural and `tive. It also emulates the functionality of many other popular programs, making it a staple for power users.
+The split panes in iTerm2 feel like **real-world desk organization**, allowing you to group and view tasks simultaneously. This design is natural and can be learned fairly easy. It also emulates the functionality of many other popular programs, making it a staple for power users. 
 
 ### 2. Visual Cues
 

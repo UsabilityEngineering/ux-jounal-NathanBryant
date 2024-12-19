@@ -34,7 +34,7 @@ From my experience with other software, I expected split panes to work similarly
 
 ## Challenges Encountered
 
-My initial confusion arose when I tried to **navigate between the two panes using keyboard shortcuts**. I was expecting shortcuts like **COMMAND + TAB** or **COMMAND + 1, 2, 3, 4**, similar to browser behavior in Chrome or Safari. However, iTerm2 uses a different shortcut: **COMMAND + OPTION + Arrow Keys**. This will take some learning and adjusting.
+My initial confusion arose when I tried to **navigate between the two panes using keyboard shortcuts**. I was expecting shortcuts like **COMMAND + TAB** or **COMMAND + 1, 2, 3, 4**, similar to browser behavior in Chrome or Safari. However, iTerm2 uses a different shortcut: **COMMAND + OPTION + Arrow Keys**. This will take some learning and adjusting. 
 
 ![Picture of iTerm2 with Split Panes](./images/electric.png)
 
@@ -45,8 +45,10 @@ My initial confusion arose when I tried to **navigate between the two panes usin
 One of the best features of iTerm2 is its **built-in keybind editor**, which allowed me to reconfigure shortcuts to better suit my preferences.
 
 - I quickly created custom shortcuts that aligned with my mental model and muscle memory, dramatically improving my experience.
+- I opened up the preferences tab, and then searched around until I found something called Keys
 - Using **Preferences > Keys**, I customized the pane navigation shortcuts to use **CTRL + Arrow Keys** instead.
 - iTerm2 also supports creating custom shortcuts for complex actions, which allows for a **modular approach** to productivity. This flexibility lets me mimic real-world actions, enhancing my workflow further.
+- This felt very easy to program a new keybind, all I had to do was just click on it, and then re-map it by pressing the keys. 
 
 ---
 
@@ -58,7 +60,7 @@ The split panes in iTerm2 feel like **real-world desk organization**, allowing y
 
 ### 2. Visual Cues
 
-iTerm2 provides clear **visual separators** between panes and a subtle highlight to indicate the active pane. This makes it easy to see where you are working. If preferred, these visual cues can be adjusted in the settings.
+iTerm2 provides clear **visual separators** between panes and a subtle highlight to indicate the active pane. This makes it easy to see where you are working. If preferred, these visual cues can be adjusted in the settings. If you go into Settings > Panes, there is a whole section dedicated to just adjusting how the feel of the panes is, wether this be the contrast, darkness, clarity, etc. Very nice features. 
 
 ---
 

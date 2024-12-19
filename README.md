@@ -8,4 +8,5 @@ I am a cool dude who likes cool things like programming and UX, For starters I h
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Working with a New Terminal](j01/)
+[Working with a New Terminal](j02/)
